@@ -1,6 +1,6 @@
 
 
- iuser_num = input("pick a number between 1-20 ")
+user_num = input("pick a number between 1-20 ")
 n = 8 
 num = abs(n - int(user_num))
 print(num)
